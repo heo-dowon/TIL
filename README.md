@@ -8,7 +8,7 @@
 
 ## React
 
-[Raf,Portals](https://github.com/heoMint/Ref-Portals-Practice, Raf portals)
+[Raf,Portals](https://github.com/heoMint/Ref-Portals-Practice)
 ---
 
 ## JavaScript
